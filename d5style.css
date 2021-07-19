@@ -1,0 +1,20 @@
+.my_style {
+  background-color: #C9D8B6;
+  color: #57837B;
+  border: 3px solid #000; /*line height, letter spacing, taxt align, font family, font weight,bg color,*/
+}
+
+#my_id {
+  background-color: #FDD2BF;
+  color: #DF5E5E;
+}
+
+p {
+  background-color: #CDF0EA;
+  color: #476072;
+}
+
+h1 {
+  color: #000;
+}
+/*try not to use h1*/
